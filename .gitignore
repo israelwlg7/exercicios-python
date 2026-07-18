@@ -1,0 +1,12 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
